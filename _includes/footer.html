@@ -3,15 +3,30 @@
     <div class="col col-12">
       <!-- begin footer -->
       {% if site.footer-image %}
-        <footer class="footer footer-image" style="background-image: url('{{site.footer-image | relative_url }}')">
-          {% include contact-link.html %}
-            <div class="copyright wow fadeInUp" data-wow-delay=".2s">{{site.time | date: '%Y'}} &copy; <a href="/" class="copyright__link">{% if site.title %}{{site.title}}{% else %}Reked Theme{% endif %}</a>. Alessandro Yung.</div>
-        </footer>
+      <footer
+        class="footer footer-image"
+        style="background-image: url('{{site.footer-image | relative_url }}')"
+      >
+        {% include contact-link.html %}
+        <div class="copyright wow fadeInUp" data-wow-delay=".2s">
+          {{site.time | date: '%Y'}} &copy;
+          <a href="/" class="copyright__link"
+            >{% if site.author.name %}{{site.author.name}}{% else %}Alessandro
+            Yung{% endif %}</a
+          >. Based on Reked.
+        </div>
+      </footer>
       {% else %}
-        <footer class="footer">
-          {% include contact-link.html %}
-            <div class="copyright wow fadeInUp" data-wow-delay=".2s">{{site.time | date: '%Y'}} &copy; <a href="/" class="copyright__link">{% if site.title %}{{site.title}}{% else %}Reked Theme{% endif %}</a>. Alessandro Yung.</div>
-        </footer>
+      <footer class="footer">
+        {% include contact-link.html %}
+        <div class="copyright wow fadeInUp" data-wow-delay=".2s">
+          {{site.time | date: '%Y'}} &copy;
+          <a href="/" class="copyright__link"
+            >{% if site.author.name %}{{site.author.name}}{% else %}Alessandro
+            Yung{% endif %}</a
+          >. Based on Reked.
+        </div>
+      </footer>
       {% endif %}
       <!-- end footer -->
     </div>

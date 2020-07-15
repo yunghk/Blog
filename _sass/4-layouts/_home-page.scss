@@ -7,7 +7,7 @@
 
 .article__title {
   margin-bottom: 20px;
-  font-size: 24px;
+  font-size: 22px;
 
   a {
     &:hover {
@@ -18,7 +18,7 @@
 
 .article__excerpt {
   margin-bottom: 20px;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 25px;
   color: $gray;
 }
@@ -28,7 +28,7 @@
   line-height: 18px;
   letter-spacing: 0.5px;
   color: $gray;
-  
+
   a {
     display: inline-block;
     color: lighten($dark, 10%);
@@ -45,7 +45,7 @@
     content: ",";
     display: inline-block;
   }
-  
+
   &:last-child {
     &:after {
       content: "";
