@@ -1,15 +1,16 @@
-<svg width="92" height="30" xmlns="http://www.w3.org/2000/svg">
+<svg width="222.99999999999997" height="32" xmlns="http://www.w3.org/2000/svg">
  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
 
  <g>
   <title>background</title>
-  <rect fill="none" id="canvas_background" height="32" width="94" y="-1" x="-1"/>
-  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+  <rect fill="none" id="canvas_background" height="34" width="225" y="-1" x="-1"/>
+  <g wfd-invisible="true" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
    <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
   </g>
  </g>
  <g>
   <title>Layer 1</title>
-  <text opacity="0.9" font-weight="normal" stroke="#191919" transform="matrix(1.3938230654186616,0,0,1.1734126788170762,-108.70499904021855,-97.37543488673435) " xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="24" id="svg_2" y="102.955184" x="84.609782" fill="#191919">Yung</text>
+  <text style="cursor: move;" font-weight="normal" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Shadows Into Light', serif" font-size="34" id="svg_19" y="24.207807" x="-0.401714" stroke-opacity="null" stroke-width="0" stroke="#ffffff" fill="#000000">Alessandro</text>
+  <text font-weight="normal" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Shadows Into Light', serif" font-size="34" id="svg_20" y="24.170273" x="153.073583" stroke-opacity="null" stroke-width="0" stroke="#ffffff" fill="#3f91e2">yung</text>
  </g>
 </svg>

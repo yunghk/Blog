@@ -1,13 +1,13 @@
-title: Blog
+title: A. Yung  |  Blog pessoal
 logo: "images/name.svg" # You can add own logo image.
-description: Blog 
+description: Aprendendo o máximo, o mais rápido possível.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
   name: Alessandro Yung
-  bio: # bio here
+  bio: Aprendendo o máximo, o mais rápido possível.
 
 # Contact links
 twitter: https://twitter.com/ # Add your Twitter handle
@@ -19,8 +19,8 @@ email: yungneto@hotmail.com # Add your Email address
 
 # Hero Section
 hero: true # To enable the section hero, use the value true. To turn off use the value false.
-hero-title: Título # Add your hero title
-hero-subtitle: Subtítulo # Add your hero subtitle
+hero-title: # Add your hero title
+hero-subtitle: Aprendendo o máximo, o mais rápido possível. # Add your hero subtitle
 hero-image: images/Cover high res.jpg # Add background image in section hero
 
 # Footer
@@ -49,7 +49,7 @@ paginate_path: "/page/:num"
 # Pages Path
 defaults:
   - scope:
-      path: '_pages'
+      path: "_pages"
     values:
       permalink: /:basename
 
@@ -57,9 +57,9 @@ include:
   - _pages
 
 # Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
+tag_page_dir: tag
+tag_page_layout: tag_page
+tag_permalink_style: pretty
 
 sass:
   sass_dir: _sass

@@ -5,15 +5,13 @@
 // Spaces
 $base-spacing-unit: 20px;
 
-
 // *****************
 // Color Variables
 // *****************
-$brand-color: #145f8d;
+$brand-color: #3f91e2;
 $dark: #212121;
 $gray: #616161;
 $light-gray: #eee;
-
 
 // Background Colors
 $background-color: #fff;
@@ -31,7 +29,6 @@ $link-color-hover: darken($dark, 15%);
 // Border
 $border-color: $light-gray;
 
-
 // *****************
 // Typography
 // *****************
@@ -39,18 +36,17 @@ $base-font-size: 18px;
 $base-font-style: normal;
 $base-font-variant: normal;
 $base-font-weight: normal;
-$base-font-family: 'Spectral', 'Lora', 'Merriweather', serif;
+$base-font-family: "Spectral", "Lora", "Merriweather", serif;
 $base-line-height: 26px;
 
-
 // Headings
-$heading-font-family: 'Roboto', Helvetica Neue, Helvetica, Arial, sans-serif;
+$heading-font-family: "Roboto", Helvetica Neue, Helvetica, Arial, sans-serif;
 
-$font-size-h1:  36px;
-$font-size-h2:  32px;
-$font-size-h3:  24px;
-$font-size-h4:  20px;
-$font-size-h5:  18px;
-$font-size-h6:  16px;
+$font-size-h1: 36px;
+$font-size-h2: 32px;
+$font-size-h3: 24px;
+$font-size-h4: 20px;
+$font-size-h5: 18px;
+$font-size-h6: 16px;
 
 $heading-line-height: 1.2;
