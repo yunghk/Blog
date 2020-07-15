@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  You weren't on any mercy mission this time
-date:   2018-11-13
-image:  images/02.jpg
-tags:   [Work]
+title: You weren't on any mercy mission this time
+date: 2018-11-13
+image: images/02.jpg
+tags: [Work]
 permalink: /:title/
 ---
+
 Still, she's got a lot of spirit. I don't know, what do you think? Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I can't get involved! I've got work to do! It's not that I like the Empire, I hate it, but there's nothing I can do about it right now. It's such a long way from here.
 
 I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. You are a part of the Rebel Alliance and a traitor! Take her away! Your eyes can deceive you. Don't trust them.
@@ -13,7 +14,7 @@ I suggest you try it again, Luke. This time, let go your conscious self and act 
 Hokey religions and ancient weapons are no match for a good blaster at your side, kid. I suggest you try it again, Luke. This time, let go your conscious self and act on instinct. Don't be too proud of this technological terror you've constructed. The ability to destroy a planet is insignificant next to the power of the Force.
 
 ![Bike on the street]({{site.baseurl}}/images/11.jpg)
-*Memories from childhood*
+_Memories from childhood_
 
 1. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There'll be no one to stop us this time!
 2. Remember, a Jedi can feel the Force flowing through him.
