@@ -1,16 +1,15 @@
-<svg width="222.99999999999997" height="32" xmlns="http://www.w3.org/2000/svg">
+<svg width="105" height="35" xmlns="http://www.w3.org/2000/svg">
  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
-
  <g>
   <title>background</title>
-  <rect fill="none" id="canvas_background" height="34" width="225" y="-1" x="-1"/>
+  <rect fill="none" id="canvas_background" height="37" width="107" y="-1" x="-1"/>
   <g wfd-invisible="true" display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
    <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
   </g>
  </g>
  <g>
   <title>Layer 1</title>
-  <text style="cursor: move;" font-weight="normal" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Shadows Into Light', serif" font-size="34" id="svg_19" y="24.207807" x="-0.401714" stroke-opacity="null" stroke-width="0" stroke="#ffffff" fill="#000000">Alessandro</text>
-  <text font-weight="normal" font-style="normal" xml:space="preserve" text-anchor="start" font-family="'Shadows Into Light', serif" font-size="34" id="svg_20" y="24.170273" x="153.073583" stroke-opacity="null" stroke-width="0" stroke="#ffffff" fill="#3f91e2">yung</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Shadows Into Light', serif" font-size="35" id="svg_1" y="26.325268" x="0.547489" stroke-width="0" stroke="#000" fill="#000000">A</text>
+  <text xml:space="preserve" text-anchor="start" font-family="'Shadows Into Light', serif" font-size="35" id="svg_2" y="26.325268" x="28.284696" stroke-width="0" stroke="#000" fill="#000000">Yung</text>
  </g>
 </svg>
