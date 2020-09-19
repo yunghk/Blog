@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A luta que todos nós enfrentamos
-date: 2018-11-13
+date: 2020-09-19
 image: images/work.png
 tags: [Work]
 ---
