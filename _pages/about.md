@@ -5,10 +5,14 @@ permalink: /about/
 image: images/me.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dapibus porta arcu in vestibulum. Phasellus viverra diam lacinia dignissim dapibus. Curabitur non tincidunt augue, sit amet rhoncus massa. Sed faucibus elit a felis imperdiet, eget suscipit quam condimentum. Aenean pretium vel diam id sodales. Aliquam pulvinar ultrices lectus, pulvinar egestas justo accumsan non. Morbi rutrum non metus ut commodo. Sed varius a ligula nec pulvinar. Vestibulum congue finibus tellus sit amet pretium. Nulla facilisi. Mauris ultrices tellus ut scelerisque elementum. Vestibulum accumsan dui in augue sollicitudin, quis vestibulum mi lobortis.
+Atualmente sou desenvolvedor fulltime na [Unit](www.somosunit.com.br) e futuro engenheiro civil pela Universidade Federal do Espírito Santo.
 
-Nam nec ligula ut lorem mollis convallis et sit amet magna. Quisque eleifend diam enim, ut rutrum augue facilisis eu. Nam varius ipsum tempor nulla tempor interdum. Duis ipsum diam, condimentum eu metus id, sollicitudin convallis elit. Nam ut aliquet arcu. Fusce quis nisi lectus. Vestibulum non tristique massa. Aenean ut dictum sapien. Donec id lobortis tortor, vitae tristique mauris. Praesent blandit nisi sit amet volutpat congue. Donec volutpat volutpat quam eget consectetur. Vivamus diam nibh, viverra vitae placerat eget, blandit vel erat. Donec commodo nunc sit amet libero cursus semper. Vestibulum ultrices libero id tristique rhoncus.
+Tive o privilégio de realizar um intercâmbio universitário na Politécnico di Milano, uma grande universidade européia, onde explorei áreas como Econometria, Inovação e Finanças. Pude conhecer um pouco mais do vasto mundo que vivemos e interagir com pessoas de diferentes culturas.
 
-#### Industry Design & Media
+Estou apenas no início de uma grande jornada de aprendizado e muito crescimento, explorando os mais diversos conceitos e aplicações em assuntos como tecnologia, dados, finanças e mercados.
 
-Duis venenatis congue massa, ut dignissim neque. Ut consectetur tristique nunc vitae elementum. Aliquam nisl libero, hendrerit nec fermentum pellentesque, fermentum non tellus. Curabitur at condimentum urna. Aliquam ipsum augue, convallis quis metus eget, interdum mattis diam. Nullam euismod lorem eget tortor tempor, in iaculis nibh feugiat. Morbi velit nibh, finibus sed risus sit amet, placerat tempus nibh. Etiam cursus aliquet augue, nec eleifend arcu posuere in. Curabitur finibus, nisi ac hendrerit congue, tortor sem pellentesque mi, ut pulvinar erat urna eu libero. Sed arcu magna, bibendum eget dui nec, aliquam ornare metus. Praesent sollicitudin convallis metus eget tincidunt. Nam velit eros, malesuada eu porta quis, mattis mattis ipsum.
+#### Por quê mercado, tecnologia e dados?
+
+Como pensa Igor Tulchinsky, fundador do WorldQuant um dos maiores fundos quânticos de investimento do mundo, "Acesso a vastas quantidades de dados e avanços tecnológicos são a nova norma". Acredito que ainda existem muitas empresas e times que não usufruem do real potencial de toda a informação hoje disponível. Mas cultivando ambientes inovadores e tecnológicos, como os de startups como a [Unit](www.somosunit.com.br), somos capazes de criar iniciativas transformadoras, moldando como nós fazemos negócios e como lidamos com problemas.
+
+Meu objetivo aqui é expressar a minha visão sobre estes temas e como eu lido com alguns deles no dia a dia. Quem sabe você não aprende algo novo por aqui?

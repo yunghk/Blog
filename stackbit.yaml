@@ -44,9 +44,9 @@ models:
             label: Bio
             description: The short bio of the author.
       - type: string
-        name: twitter
-        label: Twitter
-        description: Your Twitter url.
+        name: linkedin
+        label: Linkedin
+        description: Your Linkedin url.
       - type: string
         name: facebook
         label: Facebook
